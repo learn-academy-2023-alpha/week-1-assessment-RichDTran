@@ -16,7 +16,8 @@ Researched answer:
 
 Your answer:Git is a program used in mostly all pcs /macs that help programming. Git is the "local" programming system where Github is online and is used as a drive accessible around the world.
 
-Researched answer:
+Researched answer: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. / 
+While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository. 
 
 2. Which JavaScript operators will return a Boolean value?
 
